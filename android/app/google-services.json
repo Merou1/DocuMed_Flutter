@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361054156268",
+    "project_id": "documed-696969",
+    "storage_bucket": "documed-696969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361054156268:android:331aa92263ab86a8c0fcc9",
+        "android_client_info": {
+          "package_name": "com.example.documed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiNZE42--JtYQ5CPmP8CW_Xf0EJY3K8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361054156268:android:87de47b1d2f187f9c0fcc9",
+        "android_client_info": {
+          "package_name": "com.example.unichat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqiNZE42--JtYQ5CPmP8CW_Xf0EJY3K8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
